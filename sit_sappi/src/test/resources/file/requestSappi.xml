@@ -1,0 +1,1824 @@
+<ns3:Data_Hub xmlns:ns3="http://www.anite.com/AniteTravelWS/DataHub/ReservationDataResponse">
+<ns2:Reservation xmlns:ns2="http://www.anite.com/AniteTravelWS/DataHub/Common">
+<ns2:Res_Id>92021582</ns2:Res_Id>
+<ns2:Ver_Num>1</ns2:Ver_Num>
+<ns2:Sys_Cd>atcomres</ns2:Sys_Cd>
+<ns2:Prd_Cd>TCU1</ns2:Prd_Cd>
+<ns2:Prd_Name>Thomas Cook UK</ns2:Prd_Name>
+<ns2:Prom_Gp_Cd>TCU1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Thomas Cook</ns2:Prom_Gp_Name>
+<ns2:Srch_Prom_Gp_Cd>TCU</ns2:Srch_Prom_Gp_Cd>
+<ns2:Srch_Prom_Gp_Name>Thomas Cook</ns2:Srch_Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TGS1
+
+                        </ns2:Prom_Cd>
+<ns2:Prom_Name>TC Spain &amp; Portugal</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>TC Spain &amp; Portugal</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>TC Spain &amp; Portugal</ns2:Bo_Prom_Name>
+<ns2:Mkt_Cd>UOTA</ns2:Mkt_Cd>
+<ns2:Mkt_Name>OTA B2C Websites</ns2:Mkt_Name>
+<ns2:Mkt_Cat_Cd>UOTA</ns2:Mkt_Cat_Cd>
+<ns2:Mkt_Cat_Name>OTA B2C Websites</ns2:Mkt_Cat_Name>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Origin_Dt_Tm>2018-11-02T15:42:36</ns2:Origin_Dt_Tm>
+<ns2:Con_Dt_Tm>2018-11-02T15:42:40</ns2:Con_Dt_Tm>
+<ns2:Mod_Dt_Tm>2018-11-02T15:42:40</ns2:Mod_Dt_Tm>
+<ns2:Activity_User_Cd>VTX</ns2:Activity_User_Cd>
+<ns2:Activity_User_Name>Viewdata/Web user</ns2:Activity_User_Name>
+<ns2:First_St_Dt>2018-12-02</ns2:First_St_Dt>
+<ns2:Last_End_Dt>2018-12-09</ns2:Last_End_Dt>
+<ns2:Bkg_Sts>BKG</ns2:Bkg_Sts>
+<ns2:Pre_Bkg_Ind>N</ns2:Pre_Bkg_Ind>
+<ns2:Res_Sts>CON</ns2:Res_Sts>
+<ns2:Res_Sts_Dt_Tm>2018-11-02T15:42:40</ns2:Res_Sts_Dt_Tm>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Gp_Res_Ind>NONE</ns2:Gp_Res_Ind>
+<ns2:Pkg_Ind>INC</ns2:Pkg_Ind>
+<ns2:Bkg_Tp>INC</ns2:Bkg_Tp>
+<ns2:Sell_Prc>1806.00</ns2:Sell_Prc>
+<ns2:Sell_Cur_Cd>GBP</ns2:Sell_Cur_Cd>
+<ns2:Sell_Cur_Name>Pound Sterling</ns2:Sell_Cur_Name>
+<ns2:Res_Prc_Ex>1806.00</ns2:Res_Prc_Ex>
+<ns2:Res_Fees>0.00</ns2:Res_Fees>
+<ns2:Com_Uplift>0.00</ns2:Com_Uplift>
+<ns2:Dsnt_Effect>0.00</ns2:Dsnt_Effect>
+<ns2:Bal>1806.00</ns2:Bal>
+<ns2:Bal_Due_Dt>2018-11-02</ns2:Bal_Due_Dt>
+<ns2:Owner_Title>MR</ns2:Owner_Title>
+<ns2:Owner_Forename>TestOne</ns2:Owner_Forename>
+<ns2:Owner_Surname>TestLast</ns2:Owner_Surname>
+<ns2:Agt_Cd>J9375</ns2:Agt_Cd>
+<ns2:Agt_Name>Thomas Cook Dotcom</ns2:Agt_Name>
+<ns2:Shop_Num>5300</ns2:Shop_Num>
+<ns2:Bkg_Tp_Mth>RET</ns2:Bkg_Tp_Mth>
+<ns2:Origin_User_Cd>VTX</ns2:Origin_User_Cd>
+<ns2:Origin_User_Name>Viewdata/Web user</ns2:Origin_User_Name>
+<ns2:Agt_Com_Mth>RETR</ns2:Agt_Com_Mth>
+<ns2:Agt_Mth>LOC</ns2:Agt_Mth>
+<ns2:Agt_Credit_Sts>CA</ns2:Agt_Credit_Sts>
+<ns2:Agt_Tp_Cd>AB</ns2:Agt_Tp_Cd>
+<ns2:Agt_Tp_Name>ABTA</ns2:Agt_Tp_Name>
+<ns2:Agt_Com_Amt>197.88</ns2:Agt_Com_Amt>
+<ns2:Com_Amt_Std_Vat>197.88</ns2:Com_Amt_Std_Vat>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Inv_Mth_1>NONE</ns2:Agt_Inv_Mth_1>
+<ns2:Amt_Paid>0.00</ns2:Amt_Paid>
+<ns2:Base_Lang_Cd>en_EN</ns2:Base_Lang_Cd>
+<ns2:Cust_Dox_Lang_Cd>en_EN</ns2:Cust_Dox_Lang_Cd>
+<ns2:Scr_Lang_Cd>en_EN</ns2:Scr_Lang_Cd>
+<ns2:Cust_Dox_Recpt>AGT</ns2:Cust_Dox_Recpt>
+<ns2:Cust_Dox_Per_Pax>N</ns2:Cust_Dox_Per_Pax>
+<ns2:Cust_Dox_Suppress_Prc>N</ns2:Cust_Dox_Suppress_Prc>
+<ns2:Loyalty_Card_Rules_Ind>N</ns2:Loyalty_Card_Rules_Ind>
+<ns2:Late_Bkg_Ind>N</ns2:Late_Bkg_Ind>
+<ns2:Loc_Agt>DIK</ns2:Loc_Agt>
+<ns2:Sales_Net>VRP</ns2:Sales_Net>
+<ns2:Init_Sales_Channel>Tosca</ns2:Init_Sales_Channel>
+<ns2:Sales_Channel>Tosca</ns2:Sales_Channel>
+<ns2:Initial_Src_Sys>VRP</ns2:Initial_Src_Sys>
+<ns2:Src_Sys>VRP</ns2:Src_Sys>
+<ns2:Flt_Tm_Rstn_Ind>N</ns2:Flt_Tm_Rstn_Ind>
+<ns2:Conf_Req_Dt_Tm>2018-11-02T23:59:59</ns2:Conf_Req_Dt_Tm>
+<ns2:Conf_Max_Ver_Num>1</ns2:Conf_Max_Ver_Num>
+<ns2:Vch_Imm_Ind>N</ns2:Vch_Imm_Ind>
+<ns2:Vch_Req_Dt_Tm>2018-12-02T23:59:59</ns2:Vch_Req_Dt_Tm>
+<ns2:Vch_Max_Ver_Num>1</ns2:Vch_Max_Ver_Num>
+<ns2:Debit_Req_Ind>Y</ns2:Debit_Req_Ind>
+<ns2:Debit_Max_Ver_Num>1</ns2:Debit_Max_Ver_Num>
+<ns2:Credit_Req_Ind>Y</ns2:Credit_Req_Ind>
+<ns2:Credit_Max_Ver_Num>1</ns2:Credit_Max_Ver_Num>
+<ns2:Ins_Req_Ind>N</ns2:Ins_Req_Ind>
+<ns2:Ins_Max_Ver_Num>1</ns2:Ins_Max_Ver_Num>
+<ns2:Dms_Export_File>DMS_Reservation_92021582.txt</ns2:Dms_Export_File>
+<ns2:Pax_Name_Change_Fg>Y</ns2:Pax_Name_Change_Fg>
+<ns2:Pax_Added_Fg>Y</ns2:Pax_Added_Fg>
+<ns2:Invoice_Credit_Fg>I</ns2:Invoice_Credit_Fg>
+<ns2:Ins_Prc_Sum>0.00</ns2:Ins_Prc_Sum>
+<ns2:Ins_Cost_Sum>0.00</ns2:Ins_Cost_Sum>
+<ns2:Stay_Len>7</ns2:Stay_Len>
+<ns2:Agt_Parent_Cd>XR</ns2:Agt_Parent_Cd>
+<ns2:Trav_Dox_Req_Dt>2018-11-04</ns2:Trav_Dox_Req_Dt>
+<ns2:Res_Erratas>
+<ns2:Res_Errata>
+<ns2:Errata_Id>34993899</ns2:Errata_Id>
+<ns2:Errata_Seq>1</ns2:Errata_Seq>
+<ns2:Errata_Dt_Tm>2018-11-02T15:42:37</ns2:Errata_Dt_Tm>
+<ns2:Errata_Cd>EGL</ns2:Errata_Cd>
+<ns2:Errata_Cd_Name>Location</ns2:Errata_Cd_Name>
+<ns2:Prt_Conf>N</ns2:Prt_Conf>
+<ns2:Prt_Vch>N</ns2:Prt_Vch>
+<ns2:Res_Errata_Notes>
+<ns2:Res_Errata_Note>
+<ns2:Errata_Note_Id>34993901</ns2:Errata_Note_Id>
+<ns2:Note_Id>268419920</ns2:Note_Id>
+<ns2:Paragraph_Lvl>1</ns2:Paragraph_Lvl>
+<ns2:Text>If you’ve got any requirements relating to a disability, reduced mobility
+                                            or medical condition please contact us before booking,  for direct customers
+                                            online please call 01733 224 808, for all travel agents please call 0800
+                                            1073409.  We’ll be able to check the suitability of accommodation or
+                                            transfers for customers travelling with a wheelchair or electric mobility
+                                            aid, and pass on your requests. For any airport or airline assistance,
+                                            including any medical baggage, travelling within 14 days please contact us
+                                            on 0800 107 3409 or if your travel date is more than 14 days away, you can
+                                            complete the special assistance form at &lt;a
+                                            href="https://www.thomascook.com/special-assistance/"&gt;https://www.thomascook.com/special-assistance/&lt;/a&gt;
+                                        </ns2:Text>
+</ns2:Res_Errata_Note>
+</ns2:Res_Errata_Notes>
+</ns2:Res_Errata>
+<ns2:Res_Errata>
+<ns2:Errata_Id>34993900</ns2:Errata_Id>
+<ns2:Errata_Seq>2</ns2:Errata_Seq>
+<ns2:Errata_Dt_Tm>2018-11-02T15:42:37</ns2:Errata_Dt_Tm>
+<ns2:Errata_Cd>EGL</ns2:Errata_Cd>
+<ns2:Errata_Cd_Name>Location</ns2:Errata_Cd_Name>
+<ns2:Prt_Conf>N</ns2:Prt_Conf>
+<ns2:Prt_Vch>N</ns2:Prt_Vch>
+<ns2:Res_Errata_Notes>
+<ns2:Res_Errata_Note>
+<ns2:Errata_Note_Id>34993902</ns2:Errata_Note_Id>
+<ns2:Note_Id>275995598</ns2:Note_Id>
+<ns2:Paragraph_Lvl>1</ns2:Paragraph_Lvl>
+<ns2:Text>Deciding where to go on holiday is a serious decision and of course it's
+                                            up to you where you choose to go. Please consult FCO travel advice
+                                            (travelaware.campaign.gov.uk) before making your decision.
+                                        </ns2:Text>
+</ns2:Res_Errata_Note>
+</ns2:Res_Errata_Notes>
+</ns2:Res_Errata>
+</ns2:Res_Erratas>
+<ns2:Passengers>
+<ns2:Passenger>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Seq>1</ns2:Pax_Seq>
+<ns2:Pax_Sts>CUR</ns2:Pax_Sts>
+<ns2:Lead_Pax_Fg>Y</ns2:Lead_Pax_Fg>
+<ns2:Pax_Tp>ADU</ns2:Pax_Tp>
+<ns2:Dt_Birth>1986-08-01</ns2:Dt_Birth>
+<ns2:Age>32</ns2:Age>
+<ns2:Title>Mr</ns2:Title>
+<ns2:Initials>T</ns2:Initials>
+<ns2:Forename>Testone</ns2:Forename>
+<ns2:Surname>Testlast</ns2:Surname>
+<ns2:Gender>M</ns2:Gender>
+<ns2:Pax_Prc_Ex>904.00</ns2:Pax_Prc_Ex>
+</ns2:Passenger>
+<ns2:Passenger>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Seq>2</ns2:Pax_Seq>
+<ns2:Pax_Sts>CUR</ns2:Pax_Sts>
+<ns2:Lead_Pax_Fg>N</ns2:Lead_Pax_Fg>
+<ns2:Pax_Tp>ADU</ns2:Pax_Tp>
+<ns2:Dt_Birth>1998-11-11</ns2:Dt_Birth>
+<ns2:Age>20</ns2:Age>
+<ns2:Title>Mrs</ns2:Title>
+<ns2:Initials>T</ns2:Initials>
+<ns2:Forename>Testtwo</ns2:Forename>
+<ns2:Surname>Testlast</ns2:Surname>
+<ns2:Gender>F</ns2:Gender>
+<ns2:Pax_Prc_Ex>902.00</ns2:Pax_Prc_Ex>
+</ns2:Passenger>
+</ns2:Passengers>
+<ns2:Addresses>
+<ns2:Address>
+<ns2:Add_Tp>AGT</ns2:Add_Tp>
+<ns2:Add1>Westpoint</ns2:Add1>
+<ns2:Add2>Peterborough Business Park</ns2:Add2>
+<ns2:Add3>Lynch Wood</ns2:Add3>
+<ns2:Add4>Peterborough</ns2:Add4>
+<ns2:Add_Code>PE2 6FZ</ns2:Add_Code>
+<ns2:Work_Tel>0871 8950035</ns2:Work_Tel>
+<ns2:Pref_Mth>TEL</ns2:Pref_Mth>
+<ns2:Cty1_Pt_Id>29485</ns2:Cty1_Pt_Id>
+</ns2:Address>
+<ns2:Address>
+<ns2:Add_Tp>CLT</ns2:Add_Tp>
+<ns2:Add1>11, Cubitt Way</ns2:Add1>
+<ns2:Add2>ADDRESSLINE2</ns2:Add2>
+<ns2:Add3>Peterborough</ns2:Add3>
+<ns2:Add_Code>PE2 9NF</ns2:Add_Code>
+<ns2:Home_Tel>7743512345</ns2:Home_Tel>
+<ns2:Home_Email>test@test.com</ns2:Home_Email>
+<ns2:Lead_Pax_Mail_Fg>N</ns2:Lead_Pax_Mail_Fg>
+<ns2:Lead_Pax_Email_Fg>N</ns2:Lead_Pax_Email_Fg>
+<ns2:Lead_Pax_Tel_No_Fg>N</ns2:Lead_Pax_Tel_No_Fg>
+<ns2:Pref_Mth>EM</ns2:Pref_Mth>
+<ns2:Mkg_Mth_Post_Fg>N</ns2:Mkg_Mth_Post_Fg>
+<ns2:Mkg_Mth_Email_Fg>N</ns2:Mkg_Mth_Email_Fg>
+<ns2:Mkg_Mth_Tel_Fg>N</ns2:Mkg_Mth_Tel_Fg>
+<ns2:Mkg_Mth_Sms_Fg>N</ns2:Mkg_Mth_Sms_Fg>
+</ns2:Address>
+</ns2:Addresses>
+<ns2:Services>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678563</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>2</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-02</ns2:St_Dt>
+<ns2:End_Dt>2018-12-02</ns2:End_Dt>
+<ns2:Ser_Tp>TRS</ns2:Ser_Tp>
+<ns2:Sell_Tp>FLT</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>FLT</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>Flight</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>INC</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>LPP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Load Price Promotion</ns2:Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TUL1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>Thomas Cook UK LP</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>Thomas Cook UK LP</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>Thomas Cook UK LP</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>1</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>FLS</ns2:Spr_Cd>
+<ns2:Spr_Name>Flight Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>FLS</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Flight Supplier</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:36</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:36</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:36.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Agt_Com_Amt>39.04</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Trs>
+<ns2:Dep_Air_Cd>LGW</ns2:Dep_Air_Cd>
+<ns2:Dep_Air_Name>Gatwick</ns2:Dep_Air_Name>
+<ns2:Arr_Air_Cd>ACE</ns2:Arr_Air_Cd>
+<ns2:Arr_Air_Name>Arrecife</ns2:Arr_Air_Name>
+<ns2:Slot_Num>C</ns2:Slot_Num>
+<ns2:Ser_Cls_Cd>Y</ns2:Ser_Cls_Cd>
+<ns2:Ser_Cls_Name>Economy</ns2:Ser_Cls_Name>
+<ns2:Car_Cd>MT</ns2:Car_Cd>
+<ns2:Car_Name>Thomas Cook Airlines</ns2:Car_Name>
+<ns2:Flt_Num>MT1198</ns2:Flt_Num>
+<ns2:Dep_Dt_Tm>2018-12-02T07:50:00</ns2:Dep_Dt_Tm>
+<ns2:Arr_Dt_Tm>2018-12-02T12:00:00</ns2:Arr_Dt_Tm>
+<ns2:Utc_Dep_Dt_Tm>2018-12-02T07:50:00</ns2:Utc_Dep_Dt_Tm>
+<ns2:Utc_Arr_Dt_Tm>2018-12-02T12:00:00</ns2:Utc_Arr_Dt_Tm>
+<ns2:Dir_Mth>OUT</ns2:Dir_Mth>
+<ns2:Prc_Cls_Seq>2</ns2:Prc_Cls_Seq>
+<ns2:Route_Tp_Cd>MHA</ns2:Route_Tp_Cd>
+<ns2:Route_Tp_Name>Mid Haul Band A</ns2:Route_Tp_Name>
+<ns2:Route_Cat_Cd>D01</ns2:Route_Cat_Cd>
+<ns2:Route_Cat_Name>Day Flight</ns2:Route_Cat_Name>
+<ns2:Chk_In_Desk_Cd>S</ns2:Chk_In_Desk_Cd>
+<ns2:Chk_In_Desk_Name>South</ns2:Chk_In_Desk_Name>
+<ns2:Base_Wt_Per_Pax>15</ns2:Base_Wt_Per_Pax>
+<ns2:Base_Wt_Per_Inf>10</ns2:Base_Wt_Per_Inf>
+<ns2:Base_Pieces_Per_Pax>2</ns2:Base_Pieces_Per_Pax>
+<ns2:Max_Wt_Per_Piece>30</ns2:Max_Wt_Per_Piece>
+<ns2:Total_Wt>30</ns2:Total_Wt>
+<ns2:Total_Pieces>4</ns2:Total_Pieces>
+<ns2:Stk_Tp_Cd>C</ns2:Stk_Tp_Cd>
+<ns2:New_Trs_Fg>Y</ns2:New_Trs_Fg>
+<ns2:Car_Name_Change_Fg>Y</ns2:Car_Name_Change_Fg>
+<ns2:Flt_Num_Change_Fg>Y</ns2:Flt_Num_Change_Fg>
+<ns2:Dep_Time_Change_Fg>Y</ns2:Dep_Time_Change_Fg>
+<ns2:Arr_Time_Change_Fg>Y</ns2:Arr_Time_Change_Fg>
+<ns2:Chk_In_Desk_Change_Fg>Y</ns2:Chk_In_Desk_Change_Fg>
+</ns2:Service_Trs>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338203</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Trs>
+<ns2:Dep_Air_Cd>LGW</ns2:Dep_Air_Cd>
+<ns2:Dep_Air_Name>Gatwick</ns2:Dep_Air_Name>
+<ns2:Dep_Air_Cty1_Cd>GBR</ns2:Dep_Air_Cty1_Cd>
+<ns2:Dep_Air_Cty1_Name>United Kingdom</ns2:Dep_Air_Cty1_Name>
+<ns2:Arr_Air_Cd>ACE</ns2:Arr_Air_Cd>
+<ns2:Arr_Air_Name>Arrecife</ns2:Arr_Air_Name>
+<ns2:Arr_Air_Cty1_Cd>ESP</ns2:Arr_Air_Cty1_Cd>
+<ns2:Arr_Air_Cty1_Name>Spain</ns2:Arr_Air_Cty1_Name>
+<ns2:Slot_Num>C</ns2:Slot_Num>
+<ns2:Dep_Dt_Tm>2018-12-02T07:50:00</ns2:Dep_Dt_Tm>
+<ns2:Arr_Dt_Tm>2018-12-02T12:00:00</ns2:Arr_Dt_Tm>
+<ns2:Utc_Dep_Dt_Tm>2018-12-02T07:50:00</ns2:Utc_Dep_Dt_Tm>
+<ns2:Utc_Arr_Dt_Tm>2018-12-02T12:00:00</ns2:Utc_Arr_Dt_Tm>
+<ns2:Airft_Tp_Cd>A321</ns2:Airft_Tp_Cd>
+<ns2:Airft_Tp_Name>Airbus A321</ns2:Airft_Tp_Name>
+<ns2:Route_Tp_Cd>MHA</ns2:Route_Tp_Cd>
+<ns2:Route_Tp_Name>Mid Haul Band A</ns2:Route_Tp_Name>
+</ns2:Sub_Service_Trs>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>180.00</ns2:Pax_Ser_Prc_Ex>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Sub_Service_Pax_Extras>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>BAG</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>Baggage</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>IFM</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>In-flight Meal</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+</ns2:Sub_Service_Pax_Extras>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>180.00</ns2:Pax_Ser_Prc_Ex>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Sub_Service_Pax_Extras>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>BAG</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>Baggage</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>IFM</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>In-flight Meal</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+</ns2:Sub_Service_Pax_Extras>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842540</ns2:Prc_Id>
+<ns2:Prc_Cd>FA</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Flight</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>TRS</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>BHOL</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Basic Holidays</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>180.00</ns2:Prc>
+<ns2:Total_Prc>360.00</ns2:Total_Prc>
+<ns2:Stk_Prc>89.38</ns2:Stk_Prc>
+<ns2:Stk_Rt>89.38</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>180.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>19.80</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>39.60</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338203</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>180.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>180.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+<ns2:Price>
+<ns2:Prc_Id>135842541</ns2:Prc_Id>
+<ns2:Prc_Cd>APCF</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Atol Protection APCF</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>TRS</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>APC</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Atol Protection Charge</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>2.50</ns2:Stk_Prc>
+<ns2:Stk_Rt>2.50</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>-0.28</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>-0.56</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>TSUP</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338203</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+<ns2:Price>
+<ns2:Prc_Id>135842542</ns2:Prc_Id>
+<ns2:Prc_Cd>TX</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Flight Tax</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>TRS</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>FLT</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Flight Extras</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>14.29</ns2:Stk_Prc>
+<ns2:Stk_Rt>14.29</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>TSUP</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338203</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+<ns2:Price>
+<ns2:Prc_Id>135842543</ns2:Prc_Id>
+<ns2:Prc_Cd>APD</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Air Passenger Duty</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>TRS</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>TAX</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Tax</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>TXCM</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Commission for Tax</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>13.00</ns2:Stk_Prc>
+<ns2:Stk_Rt>13.00</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>0.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>TSUP</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338203</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678566</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>5</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-02</ns2:St_Dt>
+<ns2:Ser_Tp>FEX</ns2:Ser_Tp>
+<ns2:Sell_Tp>FEX</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>IFM</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>In-flight Meal</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>CMP</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>LPP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Load Price Promotion</ns2:Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TUL1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>Thomas Cook UK LP</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>Thomas Cook UK LP</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>Thomas Cook UK LP</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>2</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>FLS</ns2:Spr_Cd>
+<ns2:Spr_Name>Flight Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>FLS</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Flight Supplier</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Parent_Ser_Seq>2</ns2:Parent_Ser_Seq>
+<ns2:Agt_Com_Amt>1.98</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Fex>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+<ns2:Flt_Cat_Mth>MEAL</ns2:Flt_Cat_Mth>
+</ns2:Service_Fex>
+<ns2:Service_Prices>
+<ns2:Service_Price>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Service_Price>
+</ns2:Service_Prices>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338206</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>9.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>9.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842550</ns2:Prc_Id>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>FEX</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>MEAL</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Flight Meal</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>9.00</ns2:Prc>
+<ns2:Total_Prc>18.00</ns2:Total_Prc>
+<ns2:Stk_Prc>0.00</ns2:Stk_Prc>
+<ns2:Stk_Rt>0.00</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>9.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.99</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Cost_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Cost_Dt_Tm>
+<ns2:Com_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Com_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>1.98</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338206</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+<ns2:Price_Sums>
+<ns2:Price_Sum>
+<ns2:Prc_Sum_Seq>16</ns2:Prc_Sum_Seq>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>9.00</ns2:Prc>
+<ns2:Total_Prc>18.00</ns2:Total_Prc>
+<ns2:Prc_Cd_Desc>Adult Meal</ns2:Prc_Cd_Desc>
+<ns2:Price_Sum_Paxs>
+<ns2:Price_Sum_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Sum_Pax>
+<ns2:Price_Sum_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Sum_Pax>
+</ns2:Price_Sum_Paxs>
+</ns2:Price_Sum>
+</ns2:Price_Sums>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678567</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>6</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-02</ns2:St_Dt>
+<ns2:Ser_Tp>FEX</ns2:Ser_Tp>
+<ns2:Sell_Tp>FEX</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>BAG</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>Baggage</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>CMP</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>LPP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Load Price Promotion</ns2:Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TUL1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>Thomas Cook UK LP</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>Thomas Cook UK LP</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>Thomas Cook UK LP</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>2</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>FLS</ns2:Spr_Cd>
+<ns2:Spr_Name>Flight Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>FLS</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Flight Supplier</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Parent_Ser_Seq>2</ns2:Parent_Ser_Seq>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Fex>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+<ns2:Flt_Cat_Mth>BAG</ns2:Flt_Cat_Mth>
+</ns2:Service_Fex>
+<ns2:Service_Prices>
+<ns2:Service_Price>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Service_Price>
+</ns2:Service_Prices>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338207</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>0.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>0.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842551</ns2:Prc_Id>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>FEX</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>LUGG</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Luggage</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>0.00</ns2:Stk_Prc>
+<ns2:Stk_Rt>0.00</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Cost_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Cost_Dt_Tm>
+<ns2:Com_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Com_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338207</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678562</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>1</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-02</ns2:St_Dt>
+<ns2:End_Dt>2018-12-09</ns2:End_Dt>
+<ns2:Ser_Tp>ACC</ns2:Ser_Tp>
+<ns2:Sell_Tp>HTL</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>H</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>Hotel</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>INC</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>TCU1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Thomas Cook</ns2:Prom_Gp_Name>
+<ns2:Srch_Prom_Gp_Cd>TCU</ns2:Srch_Prom_Gp_Cd>
+<ns2:Srch_Prom_Gp_Name>Thomas Cook</ns2:Srch_Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TGS1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>TC Spain &amp; Portugal</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>TC Spain &amp; Portugal</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>TC Spain &amp; Portugal</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>1</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>DUM01</ns2:Spr_Cd>
+<ns2:Spr_Name>Dummy Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>DUM01</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Dummy Supplier</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:36</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:36</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:36</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:36.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Ser_Vch_Mth>PROD</ns2:Ser_Vch_Mth>
+<ns2:Parent_Ser_Seq>2</ns2:Parent_Ser_Seq>
+<ns2:Agt_Com_Amt>129.58</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Acc>
+<ns2:Ser_Len>7</ns2:Ser_Len>
+<ns2:Accom_Cd>C62H13</ns2:Accom_Cd>
+<ns2:Accom_Name>SENTIDO Aequora Lanzarote</ns2:Accom_Name>
+<ns2:Stk_Cls_Cd>STD</ns2:Stk_Cls_Cd>
+<ns2:Stk_Cls_Name>Standard</ns2:Stk_Cls_Name>
+<ns2:Star_Rtg_Cd>4</ns2:Star_Rtg_Cd>
+<ns2:Star_Rtg_Name>****</ns2:Star_Rtg_Name>
+<ns2:Star_Rtg_Tp_Cd>TC</ns2:Star_Rtg_Tp_Cd>
+<ns2:Star_Rtg_Tp_Name>Our Rating</ns2:Star_Rtg_Tp_Name>
+<ns2:Cty1_Cd>ESP</ns2:Cty1_Cd>
+<ns2:Cty1_Name>Spain</ns2:Cty1_Name>
+<ns2:Cty2_Cd>060</ns2:Cty2_Cd>
+<ns2:Cty2_Name>Lanzarote</ns2:Cty2_Name>
+<ns2:Cty3_Cd>C62</ns2:Cty3_Cd>
+<ns2:Cty3_Name>Playa De Los Pocillos</ns2:Cty3_Name>
+<ns2:Cost_Prom_Cd>CCI1</ns2:Cost_Prom_Cd>
+<ns2:Cost_Prom_Name>Common Costs &amp; Inventory</ns2:Cost_Prom_Name>
+<ns2:Catog_Cd>TG</ns2:Catog_Cd>
+<ns2:Catog_Name>TC Spain &amp; Portugal</ns2:Catog_Name>
+<ns2:Accom_Add1>Calle Urano 1</ns2:Accom_Add1>
+<ns2:Accom_Add2>35510 Puerto del Carmen</ns2:Accom_Add2>
+<ns2:Accom_Add3>España</ns2:Accom_Add3>
+<ns2:Accom_Add_Code>35510</ns2:Accom_Add_Code>
+<ns2:Accom_Tel>00 34 928 514300</ns2:Accom_Tel>
+<ns2:Trf_Tp_Cd>TRAN</ns2:Trf_Tp_Cd>
+<ns2:Trf_Tp_Name>Coach Transfers Included</ns2:Trf_Tp_Name>
+</ns2:Service_Acc>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338202</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Acc>
+<ns2:Rm_Cd>JSUI01</ns2:Rm_Cd>
+<ns2:Rm_Name>Junior Suite</ns2:Rm_Name>
+<ns2:Ovr_Rm_Desc>Junior Suite</ns2:Ovr_Rm_Desc>
+<ns2:Bb_Cd>AI</ns2:Bb_Cd>
+<ns2:Bb_Name>All Inclusive</ns2:Bb_Name>
+<ns2:Rm_Cat_Cd>Q</ns2:Rm_Cat_Cd>
+<ns2:Rm_Cat_Name>Quad</ns2:Rm_Cat_Name>
+<ns2:Contract_Tp>NCOM</ns2:Contract_Tp>
+<ns2:Rt_Tp>PP</ns2:Rt_Tp>
+<ns2:Inv_Tp>ALT</ns2:Inv_Tp>
+<ns2:Rm_Seq>106</ns2:Rm_Seq>
+<ns2:Max_Adu>3</ns2:Max_Adu>
+<ns2:Sub_Service_Acc_Facils>
+<ns2:Sub_Service_Acc_Facil>
+<ns2:Rm_Facil_Name ns2:Cd="S">Shower
+
+                                                    </ns2:Rm_Facil_Name>
+</ns2:Sub_Service_Acc_Facil>
+<ns2:Sub_Service_Acc_Facil>
+<ns2:Rm_Facil_Name ns2:Cd="Z">Balc/Terr
+
+                                                    </ns2:Rm_Facil_Name>
+</ns2:Sub_Service_Acc_Facil>
+</ns2:Sub_Service_Acc_Facils>
+</ns2:Sub_Service_Acc>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>589.00</ns2:Pax_Ser_Prc_Ex>
+<ns2:Prc_Matrix_Cd>200</ns2:Prc_Matrix_Cd>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>589.00</ns2:Pax_Ser_Prc_Ex>
+<ns2:Prc_Matrix_Cd>200</ns2:Prc_Matrix_Cd>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842546</ns2:Prc_Id>
+<ns2:Prc_Cd>AA</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Accommodation</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>ACC</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>BHOL</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Basic Holidays</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>589.00</ns2:Prc>
+<ns2:Total_Prc>1178.00</ns2:Total_Prc>
+<ns2:Stk_Prc>342.98</ns2:Stk_Prc>
+<ns2:Stk_Rt>387.57</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>EUR</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Euro</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>589.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>64.79</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:36</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>129.58</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338202</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>589.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>589.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+<ns2:Price>
+<ns2:Prc_Id>135842547</ns2:Prc_Id>
+<ns2:Prc_Cd>AI</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>All Inclusive</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>BB</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>BSUP</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Board Supp</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>125.34</ns2:Stk_Prc>
+<ns2:Stk_Rt>141.63</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>EUR</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Euro</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:36</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>BB</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338202</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+<ns2:Price>
+<ns2:Prc_Id>135842548</ns2:Prc_Id>
+<ns2:Prc_Cd>PF</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Purchasing Fee</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>AS</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>DUMM</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Dummy for cost only</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>3.74</ns2:Stk_Prc>
+<ns2:Stk_Rt>4.23</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>EUR</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Euro</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:36</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>ACST</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338202</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+<ns2:Price_Sums>
+<ns2:Price_Sum>
+<ns2:Prc_Sum_Seq>1</ns2:Prc_Sum_Seq>
+<ns2:Prc_Cd>AA</ns2:Prc_Cd>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>884.00</ns2:Prc>
+<ns2:Total_Prc>1768.00</ns2:Total_Prc>
+<ns2:Prc_Cd_Desc>Adult Accommodation</ns2:Prc_Cd_Desc>
+<ns2:Price_Sum_Paxs>
+<ns2:Price_Sum_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>884.00</ns2:Prc>
+</ns2:Price_Sum_Pax>
+<ns2:Price_Sum_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>884.00</ns2:Prc>
+</ns2:Price_Sum_Pax>
+</ns2:Price_Sum_Paxs>
+</ns2:Price_Sum>
+</ns2:Price_Sums>
+<ns2:Misc_Costs>
+<ns2:Misc_Cost>
+<ns2:Prc_Cd>TRAN</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Transfers</ns2:Prc_Cd_Name>
+<ns2:Cost_Tp>G#</ns2:Cost_Tp>
+<ns2:Cost>10.18</ns2:Cost>
+<ns2:Cost_Cur_Cd>EUR</ns2:Cost_Cur_Cd>
+<ns2:Cost_Cur_Name>Euro</ns2:Cost_Cur_Name>
+</ns2:Misc_Cost>
+</ns2:Misc_Costs>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678565</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>4</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-02</ns2:St_Dt>
+<ns2:Ser_Tp>EXT</ns2:Ser_Tp>
+<ns2:Sell_Tp>EXT</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>CHD</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>Charitable Donation</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>CMP</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>COP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Common Promotion</ns2:Prom_Gp_Name>
+<ns2:Srch_Prom_Gp_Cd>TCU</ns2:Srch_Prom_Gp_Cd>
+<ns2:Srch_Prom_Gp_Name>Thomas Cook</ns2:Srch_Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">UKI1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>UK Items</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>UK Items</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>UK Items</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>1</ns2:Ser_Qty>
+<ns2:N_Pax>1</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>1</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>DUM01</ns2:Spr_Cd>
+<ns2:Spr_Name>Dummy Supplier</ns2:Spr_Name>
+<ns2:Notfn_Spr_Cd>SUP03</ns2:Notfn_Spr_Cd>
+<ns2:Notfn_Spr_Name>Items Supplier</ns2:Notfn_Spr_Name>
+<ns2:Fin_Spr_Cd>NRSY</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Extra Items Not Resy</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Ser_Vch_Mth>PROD</ns2:Ser_Vch_Mth>
+<ns2:Man_Vch_Mth>STD</ns2:Man_Vch_Mth>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Item>
+<ns2:Item_Set_Cd>CD</ns2:Item_Set_Cd>
+<ns2:Item_Set_Name>Charitable Donation</ns2:Item_Set_Name>
+<ns2:Item_Cd>CD/TCFD</ns2:Item_Cd>
+<ns2:Item_Name>Thomas Cook Foundation</ns2:Item_Name>
+<ns2:Rt_Tp>PI</ns2:Rt_Tp>
+<ns2:Cty1_Cd>ESP</ns2:Cty1_Cd>
+<ns2:Cty1_Name>Spain</ns2:Cty1_Name>
+<ns2:Cty2_Cd>060</ns2:Cty2_Cd>
+<ns2:Cty2_Name>Lanzarote</ns2:Cty2_Name>
+<ns2:Cty3_Cd>C62</ns2:Cty3_Cd>
+<ns2:Cty3_Name>Playa De Los Pocillos</ns2:Cty3_Name>
+<ns2:Ser_Len>1</ns2:Ser_Len>
+<ns2:Service_Item_Ext>
+<ns2:Bundle_Ind>N</ns2:Bundle_Ind>
+</ns2:Service_Item_Ext>
+</ns2:Service_Item>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338205</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>1</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>1</ns2:N_Adu>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>2.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842549</ns2:Prc_Id>
+<ns2:Prc_Cd>TCFD</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Thomas Cook Foundation</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>EXT</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>TCFD</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Thomas Cook Foundation</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>NCOM</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Non-commissionable</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>1</ns2:Qty>
+<ns2:Prc>2.00</ns2:Prc>
+<ns2:Total_Prc>2.00</ns2:Total_Prc>
+<ns2:Stk_Prc>0.00</ns2:Stk_Prc>
+<ns2:Stk_Rt>0.00</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>2.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>0.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Spr_Comm>CD/TCFD Copy</ns2:Spr_Comm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Ed_Comm>CD/TCFD Copy</ns2:Ed_Comm>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338205</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>2.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+<ns2:Price_Sums>
+<ns2:Price_Sum>
+<ns2:Prc_Sum_Seq>15</ns2:Prc_Sum_Seq>
+<ns2:Prc_Cd>TCFD</ns2:Prc_Cd>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Qty>1</ns2:Qty>
+<ns2:Prc>2.00</ns2:Prc>
+<ns2:Total_Prc>2.00</ns2:Total_Prc>
+<ns2:Prc_Cd_Desc>Thomas Cook Foundation</ns2:Prc_Cd_Desc>
+<ns2:Price_Sum_Paxs>
+<ns2:Price_Sum_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>2.00</ns2:Prc>
+</ns2:Price_Sum_Pax>
+</ns2:Price_Sum_Paxs>
+</ns2:Price_Sum>
+</ns2:Price_Sums>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678570</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>9</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-02</ns2:St_Dt>
+<ns2:Ser_Tp>EXT</ns2:Ser_Tp>
+<ns2:Sell_Tp>EXT</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>EX</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>Extra</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>CMP</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>COP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Common Promotion</ns2:Prom_Gp_Name>
+<ns2:Srch_Prom_Gp_Cd>TCU</ns2:Srch_Prom_Gp_Cd>
+<ns2:Srch_Prom_Gp_Name>Thomas Cook</ns2:Srch_Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">UKI1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>UK Items</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>UK Items</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>UK Items</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>1</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>DUM01</ns2:Spr_Cd>
+<ns2:Spr_Name>Dummy Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>NRSY</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Extra Items Not Resy</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Ser_Vch_Mth>PROD</ns2:Ser_Vch_Mth>
+<ns2:Man_Vch_Mth>STD</ns2:Man_Vch_Mth>
+<ns2:Parent_Ser_Seq>1</ns2:Parent_Ser_Seq>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Item>
+<ns2:Item_Set_Cd>APC</ns2:Item_Set_Cd>
+<ns2:Item_Set_Name>Atol Protection</ns2:Item_Set_Name>
+<ns2:Item_Cd>APC/UK</ns2:Item_Cd>
+<ns2:Item_Name>Atol Protection £2.50 PP included</ns2:Item_Name>
+<ns2:Rt_Tp>PP</ns2:Rt_Tp>
+<ns2:Cty1_Cd>ESP</ns2:Cty1_Cd>
+<ns2:Cty1_Name>Spain</ns2:Cty1_Name>
+<ns2:Cty2_Cd>060</ns2:Cty2_Cd>
+<ns2:Cty2_Name>Lanzarote</ns2:Cty2_Name>
+<ns2:Cty3_Cd>C62</ns2:Cty3_Cd>
+<ns2:Cty3_Name>Playa De Los Pocillos</ns2:Cty3_Name>
+<ns2:Ser_Len>1</ns2:Ser_Len>
+<ns2:Service_Item_Ext>
+<ns2:Bundle_Ind>N</ns2:Bundle_Ind>
+</ns2:Service_Item_Ext>
+</ns2:Service_Item>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338210</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>0.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>0.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842554</ns2:Prc_Id>
+<ns2:Prc_Cd>APC</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>ATOL Protection Fee</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>EXT</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>APC</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Atol Protection Charge</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>0.00</ns2:Stk_Prc>
+<ns2:Stk_Rt>0.00</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Spr_Comm>APC/UK Copy</ns2:Spr_Comm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Ed_Comm>APC/UK Copy</ns2:Ed_Comm>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338210</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678564</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>3</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-09</ns2:St_Dt>
+<ns2:End_Dt>2018-12-09</ns2:End_Dt>
+<ns2:Ser_Tp>TRS</ns2:Ser_Tp>
+<ns2:Sell_Tp>FLT</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>FLT</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>Flight</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>INC</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>LPP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Load Price Promotion</ns2:Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TUL1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>Thomas Cook UK LP</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>Thomas Cook UK LP</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>Thomas Cook UK LP</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>1</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>FLS</ns2:Spr_Cd>
+<ns2:Spr_Name>Flight Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>FLS</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Flight Supplier</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:36</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:36</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:36.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Parent_Ser_Seq>2</ns2:Parent_Ser_Seq>
+<ns2:Agt_Com_Amt>25.30</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Trs>
+<ns2:Dep_Air_Cd>ACE</ns2:Dep_Air_Cd>
+<ns2:Dep_Air_Name>Arrecife</ns2:Dep_Air_Name>
+<ns2:Arr_Air_Cd>LGW</ns2:Arr_Air_Cd>
+<ns2:Arr_Air_Name>Gatwick</ns2:Arr_Air_Name>
+<ns2:Slot_Num>C</ns2:Slot_Num>
+<ns2:Ser_Cls_Cd>Y</ns2:Ser_Cls_Cd>
+<ns2:Ser_Cls_Name>Economy</ns2:Ser_Cls_Name>
+<ns2:Car_Cd>MT</ns2:Car_Cd>
+<ns2:Car_Name>Thomas Cook Airlines</ns2:Car_Name>
+<ns2:Flt_Num>MT1199</ns2:Flt_Num>
+<ns2:Dep_Dt_Tm>2018-12-09T13:15:00</ns2:Dep_Dt_Tm>
+<ns2:Arr_Dt_Tm>2018-12-09T17:20:00</ns2:Arr_Dt_Tm>
+<ns2:Utc_Dep_Dt_Tm>2018-12-09T13:15:00</ns2:Utc_Dep_Dt_Tm>
+<ns2:Utc_Arr_Dt_Tm>2018-12-09T17:20:00</ns2:Utc_Arr_Dt_Tm>
+<ns2:Dir_Mth>IN</ns2:Dir_Mth>
+<ns2:Prc_Cls_Seq>2</ns2:Prc_Cls_Seq>
+<ns2:Route_Tp_Cd>MHA</ns2:Route_Tp_Cd>
+<ns2:Route_Tp_Name>Mid Haul Band A</ns2:Route_Tp_Name>
+<ns2:Route_Cat_Cd>D01</ns2:Route_Cat_Cd>
+<ns2:Route_Cat_Name>Day Flight</ns2:Route_Cat_Name>
+<ns2:Chk_In_Desk_Cd>M</ns2:Chk_In_Desk_Cd>
+<ns2:Chk_In_Desk_Name>Main Terminal</ns2:Chk_In_Desk_Name>
+<ns2:Base_Wt_Per_Pax>15</ns2:Base_Wt_Per_Pax>
+<ns2:Base_Wt_Per_Inf>10</ns2:Base_Wt_Per_Inf>
+<ns2:Base_Pieces_Per_Pax>2</ns2:Base_Pieces_Per_Pax>
+<ns2:Max_Wt_Per_Piece>30</ns2:Max_Wt_Per_Piece>
+<ns2:Total_Wt>30</ns2:Total_Wt>
+<ns2:Total_Pieces>4</ns2:Total_Pieces>
+<ns2:Stk_Tp_Cd>C</ns2:Stk_Tp_Cd>
+<ns2:New_Trs_Fg>Y</ns2:New_Trs_Fg>
+<ns2:Car_Name_Change_Fg>Y</ns2:Car_Name_Change_Fg>
+<ns2:Flt_Num_Change_Fg>Y</ns2:Flt_Num_Change_Fg>
+<ns2:Dep_Time_Change_Fg>Y</ns2:Dep_Time_Change_Fg>
+<ns2:Arr_Time_Change_Fg>Y</ns2:Arr_Time_Change_Fg>
+<ns2:Chk_In_Desk_Change_Fg>Y</ns2:Chk_In_Desk_Change_Fg>
+</ns2:Service_Trs>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338204</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Trs>
+<ns2:Dep_Air_Cd>ACE</ns2:Dep_Air_Cd>
+<ns2:Dep_Air_Name>Arrecife</ns2:Dep_Air_Name>
+<ns2:Dep_Air_Cty1_Cd>ESP</ns2:Dep_Air_Cty1_Cd>
+<ns2:Dep_Air_Cty1_Name>Spain</ns2:Dep_Air_Cty1_Name>
+<ns2:Arr_Air_Cd>LGW</ns2:Arr_Air_Cd>
+<ns2:Arr_Air_Name>Gatwick</ns2:Arr_Air_Name>
+<ns2:Arr_Air_Cty1_Cd>GBR</ns2:Arr_Air_Cty1_Cd>
+<ns2:Arr_Air_Cty1_Name>United Kingdom</ns2:Arr_Air_Cty1_Name>
+<ns2:Slot_Num>C</ns2:Slot_Num>
+<ns2:Dep_Dt_Tm>2018-12-09T13:15:00</ns2:Dep_Dt_Tm>
+<ns2:Arr_Dt_Tm>2018-12-09T17:20:00</ns2:Arr_Dt_Tm>
+<ns2:Utc_Dep_Dt_Tm>2018-12-09T13:15:00</ns2:Utc_Dep_Dt_Tm>
+<ns2:Utc_Arr_Dt_Tm>2018-12-09T17:20:00</ns2:Utc_Arr_Dt_Tm>
+<ns2:Airft_Tp_Cd>A321</ns2:Airft_Tp_Cd>
+<ns2:Airft_Tp_Name>Airbus A321</ns2:Airft_Tp_Name>
+<ns2:Route_Tp_Cd>MHA</ns2:Route_Tp_Cd>
+<ns2:Route_Tp_Name>Mid Haul Band A</ns2:Route_Tp_Name>
+</ns2:Sub_Service_Trs>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>115.00</ns2:Pax_Ser_Prc_Ex>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Sub_Service_Pax_Extras>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>BAG</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>Baggage</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>IFM</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>In-flight Meal</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+</ns2:Sub_Service_Pax_Extras>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>115.00</ns2:Pax_Ser_Prc_Ex>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Sub_Service_Pax_Extras>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>BAG</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>Baggage</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+<ns2:Sub_Service_Pax_Extra>
+<ns2:Flt_Ext_Cat_Cd>IFM</ns2:Flt_Ext_Cat_Cd>
+<ns2:Flt_Ext_Cat_Name>In-flight Meal</ns2:Flt_Ext_Cat_Name>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+</ns2:Sub_Service_Pax_Extra>
+</ns2:Sub_Service_Pax_Extras>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842544</ns2:Prc_Id>
+<ns2:Prc_Cd>FA</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Flight</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>TRS</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>BHOL</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Basic Holidays</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>115.00</ns2:Prc>
+<ns2:Total_Prc>230.00</ns2:Total_Prc>
+<ns2:Stk_Prc>89.38</ns2:Stk_Prc>
+<ns2:Stk_Rt>89.38</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>115.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>12.65</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>25.30</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338204</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>115.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>115.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+<ns2:Price>
+<ns2:Prc_Id>135842545</ns2:Prc_Id>
+<ns2:Prc_Cd>TX</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Flight Tax</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>TRS</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>FLT</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Flight Extras</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>9.77</ns2:Stk_Prc>
+<ns2:Stk_Rt>11.04</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>EUR</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Euro</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>TSUP</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338204</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678568</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>7</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-09</ns2:St_Dt>
+<ns2:Ser_Tp>FEX</ns2:Ser_Tp>
+<ns2:Sell_Tp>FEX</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>IFM</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>In-flight Meal</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>CMP</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>LPP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Load Price Promotion</ns2:Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TUL1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>Thomas Cook UK LP</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>Thomas Cook UK LP</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>Thomas Cook UK LP</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>2</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>FLS</ns2:Spr_Cd>
+<ns2:Spr_Name>Flight Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>FLS</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Flight Supplier</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Parent_Ser_Seq>3</ns2:Parent_Ser_Seq>
+<ns2:Agt_Com_Amt>1.98</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Fex>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+<ns2:Flt_Cat_Mth>MEAL</ns2:Flt_Cat_Mth>
+</ns2:Service_Fex>
+<ns2:Service_Prices>
+<ns2:Service_Price>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Service_Price>
+</ns2:Service_Prices>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338208</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>9.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>9.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842552</ns2:Prc_Id>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Adult Meal</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>FEX</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>MEAL</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Flight Meal</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>9.00</ns2:Prc>
+<ns2:Total_Prc>18.00</ns2:Total_Prc>
+<ns2:Stk_Prc>0.00</ns2:Stk_Prc>
+<ns2:Stk_Rt>0.00</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>9.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.99</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Cost_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Cost_Dt_Tm>
+<ns2:Com_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Com_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>1.98</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338208</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+<ns2:Price_Sums>
+<ns2:Price_Sum>
+<ns2:Prc_Sum_Seq>20</ns2:Prc_Sum_Seq>
+<ns2:Prc_Cd>MEAL</ns2:Prc_Cd>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>9.00</ns2:Prc>
+<ns2:Total_Prc>18.00</ns2:Total_Prc>
+<ns2:Prc_Cd_Desc>Adult Meal</ns2:Prc_Cd_Desc>
+<ns2:Price_Sum_Paxs>
+<ns2:Price_Sum_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Sum_Pax>
+<ns2:Price_Sum_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>9.00</ns2:Prc>
+</ns2:Price_Sum_Pax>
+</ns2:Price_Sum_Paxs>
+</ns2:Price_Sum>
+</ns2:Price_Sums>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+<ns2:Service>
+<ns2:Res_Ser_Id>57678569</ns2:Res_Ser_Id>
+<ns2:Ser_Seq>8</ns2:Ser_Seq>
+<ns2:St_Dt>2018-12-09</ns2:St_Dt>
+<ns2:Ser_Tp>FEX</ns2:Ser_Tp>
+<ns2:Sell_Tp>FEX</ns2:Sell_Tp>
+<ns2:Stk_Tp_Cd>BAG</ns2:Stk_Tp_Cd>
+<ns2:Stk_Tp_Name>Baggage</ns2:Stk_Tp_Name>
+<ns2:Pkg_Ind>CMP</ns2:Pkg_Ind>
+<ns2:Prom_Gp_Cd>LPP1</ns2:Prom_Gp_Cd>
+<ns2:Prom_Gp_Name>Load Price Promotion</ns2:Prom_Gp_Name>
+<ns2:Prom_Cd ns2:Issue_Cd="1">TUL1
+
+                                </ns2:Prom_Cd>
+<ns2:Prom_Name>Thomas Cook UK LP</ns2:Prom_Name>
+<ns2:Sell_Prom_Name>Thomas Cook UK LP</ns2:Sell_Prom_Name>
+<ns2:Bo_Prom_Name>Thomas Cook UK LP</ns2:Bo_Prom_Name>
+<ns2:Prom_Srch_Cat_Cd>PS1</ns2:Prom_Srch_Cat_Cd>
+<ns2:Terms_Cd>STD</ns2:Terms_Cd>
+<ns2:Terms_Name>Standard T&amp;Cs</ns2:Terms_Name>
+<ns2:Ser_Qty>2</ns2:Ser_Qty>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Ser_Sts>CON</ns2:Ser_Sts>
+<ns2:Spr_Cd>FLS</ns2:Spr_Cd>
+<ns2:Spr_Name>Flight Supplier</ns2:Spr_Name>
+<ns2:Fin_Spr_Cd>FLS</ns2:Fin_Spr_Cd>
+<ns2:Fin_Spr_Name>Flight Supplier</ns2:Fin_Spr_Name>
+<ns2:Billing_Mth>SBL</ns2:Billing_Mth>
+<ns2:Prc_Calc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Calc_Dt_Tm>
+<ns2:Ser_Cre_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Cre_Dt_Tm>
+<ns2:Ser_Con_Dt_Tm>2018-11-02T15:42:37</ns2:Ser_Con_Dt_Tm>
+<ns2:Ser_Mod_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Ser_Mod_Dt_Tm>
+<ns2:Parent_Ser_Seq>3</ns2:Parent_Ser_Seq>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Clt_Paid_Ser>0.00</ns2:Clt_Paid_Ser>
+<ns2:Service_Fex>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Bag_Allow_Wt>15</ns2:Bag_Allow_Wt>
+<ns2:Bag_Allow_Pieces>2</ns2:Bag_Allow_Pieces>
+<ns2:Bundle_Mth>STD</ns2:Bundle_Mth>
+<ns2:Flt_Cat_Mth>BAG</ns2:Flt_Cat_Mth>
+</ns2:Service_Fex>
+<ns2:Service_Prices>
+<ns2:Service_Price>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Service_Price>
+</ns2:Service_Prices>
+<ns2:Sub_Services>
+<ns2:Sub_Service>
+<ns2:Res_Sub_Ser_Id>69338209</ns2:Res_Sub_Ser_Id>
+<ns2:N_Pax>2</ns2:N_Pax>
+<ns2:N_Inf>0</ns2:N_Inf>
+<ns2:N_Chd>0</ns2:N_Chd>
+<ns2:N_Adu>2</ns2:N_Adu>
+<ns2:Sub_Service_Paxs>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>0.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+<ns2:Sub_Service_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Pax_Ser_Prc_Ex>0.00</ns2:Pax_Ser_Prc_Ex>
+</ns2:Sub_Service_Pax>
+</ns2:Sub_Service_Paxs>
+<ns2:Prices>
+<ns2:Price>
+<ns2:Prc_Id>135842553</ns2:Prc_Id>
+<ns2:Prc_Cd>EXLU</ns2:Prc_Cd>
+<ns2:Prc_Cd_Name>Included Luggage</ns2:Prc_Cd_Name>
+<ns2:Prc_Cd_Mth>FEX</ns2:Prc_Cd_Mth>
+<ns2:Prc_Cd_Tp>LUGG</ns2:Prc_Cd_Tp>
+<ns2:Prc_Cd_Tp_Name>Luggage</ns2:Prc_Cd_Tp_Name>
+<ns2:Agt_Band>STD</ns2:Agt_Band>
+<ns2:Agt_Band_Name>Standard</ns2:Agt_Band_Name>
+<ns2:Vat_Tp>RAT1</ns2:Vat_Tp>
+<ns2:Qty>2</ns2:Qty>
+<ns2:Prc>0.00</ns2:Prc>
+<ns2:Total_Prc>0.00</ns2:Total_Prc>
+<ns2:Stk_Prc>0.00</ns2:Stk_Prc>
+<ns2:Stk_Rt>0.00</ns2:Stk_Rt>
+<ns2:Stk_Cur_Cd>GBP</ns2:Stk_Cur_Cd>
+<ns2:Stk_Cur_Name>Pound Sterling</ns2:Stk_Cur_Name>
+<ns2:Agt_Com_Relev_Prc>0.00</ns2:Agt_Com_Relev_Prc>
+<ns2:Agt_Com_Amt>0.00</ns2:Agt_Com_Amt>
+<ns2:Agt_Com_Vat>0.00</ns2:Agt_Com_Vat>
+<ns2:Agt_Com>11.00</ns2:Agt_Com>
+<ns2:Agt_Com_Tp>PER</ns2:Agt_Com_Tp>
+<ns2:Agt_Com_Origin>O/R</ns2:Agt_Com_Origin>
+<ns2:Prc_Dt_Tm>2018-11-02T15:42:37</ns2:Prc_Dt_Tm>
+<ns2:Cost_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Cost_Dt_Tm>
+<ns2:Com_Dt_Tm>2018-11-02T13:42:37.000Z</ns2:Com_Dt_Tm>
+<ns2:Turnover_Rev_Fg>N</ns2:Turnover_Rev_Fg>
+<ns2:Scale_Rev_Fg>N</ns2:Scale_Rev_Fg>
+<ns2:Exped_Red_Fg>N</ns2:Exped_Red_Fg>
+<ns2:Total_Agt_Com_Amt>0.00</ns2:Total_Agt_Com_Amt>
+<ns2:Prc_Sts>STK</ns2:Prc_Sts>
+<ns2:Atcom_Res_Sub_Ser_Id>69338209</ns2:Atcom_Res_Sub_Ser_Id>
+<ns2:Price_Paxs>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361637</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+<ns2:Price_Pax>
+<ns2:Pax_Id>13361638</ns2:Pax_Id>
+<ns2:Prc>0.00</ns2:Prc>
+</ns2:Price_Pax>
+</ns2:Price_Paxs>
+</ns2:Price>
+</ns2:Prices>
+</ns2:Sub_Service>
+</ns2:Sub_Services>
+</ns2:Service>
+</ns2:Services>
+</ns2:Reservation>
+</ns3:Data_Hub>
